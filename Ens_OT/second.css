@@ -1,0 +1,38 @@
+img {
+
+    width: 450px;
+    height: auto;
+    margin: 20px;
+}
+
+figure {
+    border: 1px #cccccc solid;
+    padding: 2px;
+    margin: auto
+  }
+
+  body {
+    background-color: beige;
+  }
+  
+  h1 {
+    border-style: double;
+  }
+
+  p {
+    border-radius: 25px;
+    background: #2edb8b;
+    padding: 20px;
+    width: 200px;
+    height: 60px;
+  }
+
+  div {
+    width: 500px;
+    height: auto;
+    margin: auto;
+    transform: scale(2.5);
+    
+  }
+
+  
